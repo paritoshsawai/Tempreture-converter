@@ -15,6 +15,6 @@ HTML: For structuring the web page and creating a clean, minimal user interface.
 CSS: To enhance the visual appeal and layout, ensuring the application is user-friendly and visually consistent.
 JavaScript: Handles the logic for real-time temperature conversion, ensuring accurate and instant results based on user input.
 
-
-Link:
-You can explore the live project here: Temperature Converter.
+ 
+## Link:
+You can explore the live project here: https://paritoshsawai.github.io/Tempreture-converter/
